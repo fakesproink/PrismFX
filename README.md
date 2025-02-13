@@ -1,2 +1,2 @@
 # KidRGB
-KidBright plugin for ST7789 RGB display
+KidBright plugin for controlling ST7789 RGB display
